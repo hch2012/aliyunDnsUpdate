@@ -9,9 +9,9 @@ import(
 	"time"
 )
 const(
-	accessKeyId     = "A8lSVKzO9rAf9sfI"
-	accessKeySecret = "1xnkdoqNxfebOCcXte2bmmH0UF0PPA"
-	domainName      = "huchenghao.top"
+	accessKeyId     = "your accessKeyId"
+	accessKeySecret = "your accessKeySecret"
+	domainName      = "your domainName"
 )
 var client *dns.Client
 func init() {
