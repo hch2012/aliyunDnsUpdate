@@ -1,0 +1,2 @@
+# aliyunDnsUpdate
+为了通过域名能访问到自己家里的server，定时获取本机的外网ip地址，动态的更新域名映射
